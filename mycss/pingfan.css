@@ -1,0 +1,16 @@
+.a1{
+    width: 230px;
+    height: 40px;
+    font-size: 25px;
+    margin-top: -40px;
+    margin-left: 280px;
+    color:rgb(44, 43, 43);
+}
+.a2 p{
+    text-indent: 2em; /*文字空两格*/
+    font-size: 20px;
+}
+.a3 p{
+    text-align: center; /*文字居中 */
+    font-size: 20px;
+}
